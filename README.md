@@ -1,5 +1,5 @@
 # Desaf-o-Data-Science-CLA
-Desarrollo desafia 1 del desafio. clasificación binaria
+Desarrollo desafia 1 del desafio, desarrollo de clasificación binaria.
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,7 +11,7 @@ Desarrollo desafia 1 del desafio. clasificación binaria
   <h3 align="center">Desarrollo desafio 1</h3>
 
   <p align="center">
-    Bayron Parada Reyes
+    Bayron Parada Reyes, Ingeniero Matemático (USACH).
     <br />
   </p>
 </p>
